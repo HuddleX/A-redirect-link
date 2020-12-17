@@ -1,2 +1,0 @@
-# Website  
-Seyferts website
