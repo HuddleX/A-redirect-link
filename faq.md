@@ -9,7 +9,7 @@ description: Quick information about Seyfert
 ***
 
 1. First you need to install [Forge](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) for Minecraft 1.12.2.
-2. Download the newest stable release at [Website](https://seyfert.xyz) for Minecraft 1.12.2.
+2. Download the newest stable release at our [Website](https://seyfert.xyz).
 3. drag the folder into your forge mods folder
 4. Open Forge through the Minecraft launcher
 
