@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Frequently asked questions
-description: Quick information about KAMI Blue
+description: Quick information about Seyfert
 ---
 
 ## Installing
