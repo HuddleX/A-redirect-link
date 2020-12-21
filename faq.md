@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Frequently asked questions
-description: Quick information about Seyfert
+description: Quick information about ShulkerClient
 ---
 
 ## Installing
@@ -40,10 +40,10 @@ To use Baritone, use the `;b` command
 In order to show HUD elements on screen when the GUI is closed, hit the pin in the top left of it.
 
 ##### Change command prefix
-By using the command `;prefix <new Prefix>` (eg `;prefix .`) or after having ran seyfert (make sure it's closed), editing your configuration file (find it using `;config path` in-game) and changing the value of `commandPrefix` to change the prefix.
+By using the command `;prefix <new Prefix>` (eg `;prefix .`) or after having ran ShulkerClient (make sure it's closed), editing your configuration file (find it using `;config path` in-game) and changing the value of `commandPrefix` to change the prefix.
 
 ##### Will there ever be a version for newer Minecraft versions?
-No, Seyfert's codebase is too big and relies on Forge events way too much to port to a newer version. Instead, you can use [KAMI](https://kamiclient.com), a 1.16.x client like seyfert.
+No, ShulkerClient's codebase is too big and relies on Forge events way too much to port to a newer version. Instead, you can use [KAMI](https://kamiclient.com), a 1.16.x client like ShulkerClient.
 
 ##### Missing menus
 Run `;fixgui` and if that doesn't help, make your GUI Scale smaller through the Minecraft settings and move your stuff back on screen. 
